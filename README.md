@@ -1,2 +1,3 @@
 # szxna_myjnia
-Wtyczka do serwerów FiveM umożliwiająca usuwanie jednym poleceniem danych dotyczące gracza z bazy danych.
+### Wtyczka do serwera **FiveM** 
+![N|Solid](https://cdn.discordapp.com/attachments/806845910474686467/921861199698739200/Screenshot_12.png)
